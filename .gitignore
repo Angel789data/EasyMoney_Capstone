@@ -1,0 +1,5 @@
+data/**/*.csv
+data/**/*.md
+notebooks/**/*.md
+results/**/*.md
+src/**/*.md
