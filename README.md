@@ -55,8 +55,6 @@ EasyMoney es una plataforma digital de comercialización de productos financiero
 | XGBClassifier | **0.7450** | **0.9480** |
 | RandomForestClassifier | 0.6790 | 0.9410 |
 
-- LSTM captures seasonality and trends better than baseline  
-- Error reduced by ~15%, which can significantly reduce inventory costs
 
 ---
 
@@ -100,5 +98,4 @@ Tu modelo predice qué clientes tienen mayor probabilidad de abrir una cuenta o 
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/tu_usuario/demand-forecasting-lstm.git
-cd demand-forecasting-lstm
+git clone https://github.com/Angel789data/EasyMoney_Capstone.git

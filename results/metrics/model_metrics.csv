@@ -1,0 +1,61 @@
+Nombre_Modelo,timestamp,PROCESO,METRICA,VALOR,Comentario
+LogisticRegression,2026-03-15 20:37:08,TRAIN,Accuracy,0.878,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TRAIN,Precision,0.69,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TRAIN,Recall,0.411,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TRAIN,F1,0.516,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TRAIN,ROC_AUC,0.874,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TEST,Accuracy,0.878,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TEST,Precision,0.68,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TEST,Recall,0.416,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TEST,F1,0.516,modelo Base
+LogisticRegression,2026-03-15 20:37:08,TEST,ROC_AUC,0.877,modelo Base
+LogisticRegression,2026-03-15 20:37:08,VALIDACION,Accuracy,0.89,modelo Base
+LogisticRegression,2026-03-15 20:37:08,VALIDACION,Precision,0.567,modelo Base
+LogisticRegression,2026-03-15 20:37:08,VALIDACION,Recall,0.56,modelo Base
+LogisticRegression,2026-03-15 20:37:08,VALIDACION,F1,0.564,modelo Base
+LogisticRegression,2026-03-15 20:37:08,VALIDACION,ROC_AUC,0.872,modelo Base
+DecisionTreeClassifier,2026-03-16 23:30:19,TRAIN,Accuracy,0.93,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TRAIN,Precision,0.848,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TRAIN,Recall,0.675,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TRAIN,F1,0.752,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TRAIN,ROC_AUC,0.949,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TEST,Accuracy,0.924,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TEST,Precision,0.815,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TEST,Recall,0.664,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TEST,F1,0.732,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,TEST,ROC_AUC,0.934,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,VALIDACION,Accuracy,0.907,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,VALIDACION,Precision,0.63,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,VALIDACION,Recall,0.652,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,VALIDACION,F1,0.641,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+DecisionTreeClassifier,2026-03-16 23:30:19,VALIDACION,ROC_AUC,0.908,"{'max_depth': 15, 'min_samples_leaf': 10, 'min_samples_split': 50}"
+XGBClassifier,2026-03-17 21:27:54,TRAIN,Accuracy,0.937,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TRAIN,Precision,0.874,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TRAIN,Recall,0.702,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TRAIN,F1,0.779,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TRAIN,ROC_AUC,0.965,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TEST,Accuracy,0.928,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TEST,Precision,0.831,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TEST,Recall,0.675,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TEST,F1,0.745,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,TEST,ROC_AUC,0.948,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,VALIDACION,Accuracy,0.921,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,VALIDACION,Precision,0.695,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,VALIDACION,Recall,0.676,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,VALIDACION,F1,0.686,"{'max_depth': 10, 'n_estimators': 400}"
+XGBClassifier,2026-03-17 21:27:54,VALIDACION,ROC_AUC,0.928,"{'max_depth': 10, 'n_estimators': 400}"
+RandomForestClassifier,2026-03-17 22:53:01,TRAIN,Accuracy,0.877,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TRAIN,Precision,0.574,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TRAIN,Recall,0.861,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TRAIN,F1,0.689,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TRAIN,ROC_AUC,0.945,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TEST,Accuracy,0.874,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TEST,Precision,0.564,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TEST,Recall,0.854,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TEST,F1,0.679,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,TEST,ROC_AUC,0.941,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,VALIDACION,Accuracy,0.864,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,VALIDACION,Precision,0.481,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,VALIDACION,Recall,0.825,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,VALIDACION,F1,0.608,"{'max_depth': 15, 'min_samples_leaf': 20}"
+RandomForestClassifier,2026-03-17 22:53:01,VALIDACION,ROC_AUC,0.925,"{'max_depth': 15, 'min_samples_leaf': 20}"
